@@ -1,3 +1,3 @@
 # my_first_cpp_program
 
-this is a first c++ program.
+this is my first c++ program.
